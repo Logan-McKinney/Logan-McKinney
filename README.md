@@ -18,12 +18,11 @@ My experience spans data analytics, automation, computer vision, and research, w
 **Development:** FastAPI, React Native, Git, Linux, REST APIs
 
 ### 🚀 Selected Projects
-*Project repositories and demonstrations will be linked here as they are prepared for public release.*
 
-- **Reverse Image Search:** Image similarity search using ResNet50 embeddings, FAISS indexing, and a FastAPI backend.
-- **FlowCali:** An AI-assisted calisthenics application exploring computer vision for exercise form analysis.
-- **Data Analytics Workshops:** Educational Python notebooks covering data analysis, APIs, and visualization.
-- **Machine Learning Research:** Exploring robust physiological signal estimation from video under changing motion and lighting conditions.
+- **[FlowCali](https://github.com/Logan-McKinney/flow-cali)** — Public website for a computer-vision-powered calisthenics analysis app. The application code is currently private.
+- **[Reinforcement Learning Gridworld](https://github.com/AndrewGolias/CPS480_FinalProject)** — Collaborative implementations of value iteration, policy iteration, Q-learning, and SARSA.
+- **Research in remote photoplethysmography (rPPG)** — Work on physiological signal estimation from video and robustness to motion and lighting. Research code is currently private pending publication review.
+- **Data analytics education** — Python, data visualization, and API workshops developed for the University of Dayton Data Analytics Club; teaching materials are being prepared for release.
 
 ### 📌 Beyond Coding
 - President, University of Dayton Data Analytics Club
