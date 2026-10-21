@@ -32,4 +32,4 @@ My experience spans data analytics, automation, computer vision, and research, w
 - Industry experience in analytics, reporting, and process improvement
 
 ### 📫 Connect
-[GitHub](https://github.com/Logan-McKinney) · LinkedIn (add profile link)
+[GitHub](https://github.com/Logan-McKinney) · LinkedIn www.linkedin.com/in/loganmckinney2
